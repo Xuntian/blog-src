@@ -30,7 +30,7 @@ keywords:
 creative_commons:
 
 # Available: atom-one-dark | atom-one-light | solarized-dark | solarized-light
-highlight: atom-one-dark
+highlight: solarized-dark
 
 # Custom info in footer.
 # custom_info: 托管于<i class="fab fa-github-alt"></i><a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
@@ -78,7 +78,7 @@ busuanzi: false
 # If you want ARIA generate excerpt, set it to the length you want. If you don't, leave it blank.
 # Recomend to place `<!--more-->` to where you want to stop excerpt in content instead of use this option.
 # Example: `auto_excerpt: 200`, use first 200 chars in post content as excerpt.
-auto_excerpt: 20
+auto_excerpt: 0
 
 # If you want to use MathJax, first fill a CDN link like `cdn: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-MML-AM_CHTML`, then set `enable: true`.
 # And set front-matter `mathjax: true` to the page you want to use it.
@@ -121,10 +121,10 @@ lib_cdn:
 social:
   enable: true
   links:
-    - name: E-Mail
+    - name: li.zq@foxmail.com
       link: mailto:li.zq@foxmail.com
       icon: fas fa-envelope
-    - name: GitHub
+    - name: Xuntian
       link: https://github.com/Xuntian
       icon: fab fa-github
 
@@ -143,7 +143,7 @@ social:
 #   commentjs:
 #     enable: true
 #     type: github
-#     user: 
+#     user:
 #     repo:
 #     client_id:
 #     client_secret:
