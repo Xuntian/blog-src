@@ -5,9 +5,9 @@
 # Site
 title: Xuntian
 subtitle: Lizhiqiang's blog
-description:
-keywords:
-author: lizhiqiang
+description: Computer enthusiasts
+keywords: 
+author: LiZhiqiang
 language: zh-CN
 timezone: Asia/Shanghai 
 
@@ -74,7 +74,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: maupassant
+theme: aria
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
