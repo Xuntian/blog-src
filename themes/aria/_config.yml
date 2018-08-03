@@ -5,7 +5,6 @@ menu:
   archives: archives/
   categories: categories/
   tags: tags/
-  vision: vision/
   about: about/
 
 # Transform your image to those favicons in https://realfavicongenerator.net/.
@@ -21,8 +20,8 @@ favicon:
 
 # Must be an array.
 keywords:
-  - Life
-  - ARIA
+  - Blog
+  - Computer Science
   - Hexo
 
 # https://creativecommons.org/licenses/
@@ -47,9 +46,11 @@ custom_font:
   main:
   code:
 
-avatar: images/avatar.png
+# avatar: images/avatar.png
+avatar: images/github.jpg
 
-logo: images/ARIA_logo.png
+# logo: images/ARIA_logo.png
+logo: images/logo.png
 
 # Theme color.
 # Need quote to prevent `#` from comment.
@@ -63,7 +64,7 @@ tags_color:
 
 google_verification:
 
-since: 2015
+since: 2016
 
 search: true
 
