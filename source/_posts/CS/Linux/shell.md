@@ -2,7 +2,6 @@
 title: Shell
 date: 2018-01-18 
 categories: Linux
-type: asd
 tag: shell 
 ---
 

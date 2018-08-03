@@ -2,7 +2,6 @@
 title: Linux 
 date: 2016-12-01 
 categories: Linux
-type: asd
 tag: linux 
 ---
 

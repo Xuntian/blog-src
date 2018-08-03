@@ -2,7 +2,6 @@
 title: Gcc
 date: 2018-03-31
 categories: Algorithm
-type: asd
 tag: gcc
 ---
 

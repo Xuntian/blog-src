@@ -2,7 +2,6 @@
 title: Shell流程控制
 date: 2017-01-19 
 categories: Linux
-type: asd
 tag: shell 
 ---
 

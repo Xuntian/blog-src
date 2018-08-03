@@ -2,7 +2,6 @@
 title: SSH
 date: 2017-08-11 
 categories: Linux
-type: asd
 tag: ssh 
 ---
 

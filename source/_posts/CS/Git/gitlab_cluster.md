@@ -2,7 +2,6 @@
 title: Gitlab Cluster
 date: 2017-06-01 
 categories: Git
-type: asd
 tag: gitlab
 ---
 
@@ -53,9 +52,9 @@ gitlab_rails['db_database'] = "gitlab"
 gitlab_rails['db_pool'] = 10
 gitlab_rails['db_username'] = "gitlab"
 gitlab_rails['db_password'] = "123456"
-gitlab_rails['db_host'] = "47.52.20.34"
+gitlab_rails['db_host'] = "{ip}"
 gitlab_rails['db_port'] = 5432
-gitlab_rails['redis_host'] = "47.52.20.34"
+gitlab_rails['redis_host'] = "{ip}"
 gitlab_rails['redis_port'] = 6379
 gitlab_rails['redis_database'] = 0
 postgresql['enable'] = false
@@ -131,13 +130,13 @@ gitlab-rake gitlab:check SANITIZE=true
 
 ```
 upstream myapp {
-    server 47.52.26.27:8080;
-    server 47.52.26.27:5432;
+    server {ip}:8080;
+    server {ip}:5432;
 }
 
 server {
     listen 80;
-    server_name 47.52.26.27;
+    server_name {ip};
     location / {
         proxy_set_header HOST $http_host;
         proxy_set_header X-Forwarded-For $remote_addr;

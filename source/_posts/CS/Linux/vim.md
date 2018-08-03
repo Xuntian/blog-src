@@ -2,7 +2,6 @@
 title: Vim 
 date: 2017-10-18
 categories: Linux
-type: asd
 tag: vim 
 ---
 

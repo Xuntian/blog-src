@@ -2,7 +2,6 @@
 title: Apt
 date: 2018-01-18 
 categories: Linux
-type: asd
 tag: apt
 ---
 

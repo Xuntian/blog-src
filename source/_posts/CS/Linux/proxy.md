@@ -2,7 +2,6 @@
 title: Proxy
 date: 2016-12-10 
 categories: Linux
-type: asd
 tag: proxy 
 ---
 

@@ -2,7 +2,6 @@
 title: Cmake
 date: 2018-04-11 
 categories: C
-type: asd
 tag: cmake 
 ---
 
