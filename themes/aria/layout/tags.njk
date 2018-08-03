@@ -14,7 +14,7 @@
       <h1 class="page-title" itemprop="name headline">{{ __(page.title) }}</h1>
     </header>
     <main class="page-main">
-      <h2 class="tags-counter">
+      <h1 class="tags-counter">
         {% if site.tags.length > 1 %}
         {{ _p("tagcount.more", site.tags.length) }}
         {% elif site.tags.length === 1 %}
@@ -22,7 +22,7 @@
         {% else %}
         {{ __("tagcount.none") }}
         {% endif %}
-      </h2>
+      </h1>
       <div class="tags-cloud">
         {{ tagcloud({min_font: 16, max_font: 32, amount: 300, color: true, start_color: "#777", end_color: "#111"}) }}
       </div>

@@ -23,22 +23,22 @@ reward:
   bitcoin: BitCoin
 
 postcount:
-  none: You have no post, write now!
-  one: You have %d post, keep on!
-  more: You have %d posts!
+  none: You have no post, write now
+  one: You have %d post, keep on
+  more: You have %d posts
 
 tagcount:
-  none: You have no tag, create now！
-  one: You have %d tag, keep on!
-  more: You have %d tags!
+  none: You have no tag, create now
+  one: You have %d tag, keep on
+  more: You have %d tags
 
 categorycount:
-  none: You have no category, create now!
-  one: You have %d category, keep on!
-  more: You have %d categories!
+  none: You have no category, create now
+  one: You have %d category, keep on
+  more: You have %d categories
 
 commentjs:
-  none: This page has no comment, go to comment now!
+  none: This page has no comment, go to comment now
   comment: Go to Comment
 
 poweredby: Proudly Powered by %s

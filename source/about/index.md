@@ -20,6 +20,6 @@ https://github.com/Xuntian
 希望这里能记录下我的学习，思考和成长
 
 ## 关于本站
-本站采用Hexo项目构建，托管与Github Pages，并采用了ARIA主题（https://github.com/AlynxZhou/hexo-theme-aria）    
+本站采用Hexo项目构建，托管于Github Pages，并采用了ARIA主题（https://github.com/AlynxZhou/hexo-theme-aria）    
 
 在此表示感谢
