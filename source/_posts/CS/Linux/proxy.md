@@ -19,6 +19,7 @@ git config --global --unset http.proxy     #取消代理
 这是一种临时的手段，如果您仅仅是暂时需要通过http代理使用apt-get，您可以使用这种方式。  
 在使用apt-get之前，在终端中输入以下命令（根据您的实际情况替换yourproxyaddress和proxyport）。  
 终端运行exporthttp_proxy="http://用户名:密码@代理IP:代理端口"也可  
+<!--more-->
    
 方法二   
 这种方法要用到/etc/apt/文件夹下的apt.conf文件。如果您希望apt-get（而不是其他应用程序）一直使用http代理，您可以使用这种方式。   

@@ -24,6 +24,7 @@ int main(){
     return 0;
 }
 ```
+<!--more-->
 
 预处理 gcc -E test.c -o test.i, 这时可以看到多了test.i文件, 查看test.i文件的内容，可以看到stdio.h的内容被加在了前面
 

@@ -17,6 +17,7 @@ tag: gitlab
 * LB
 
 ![Configuration](https://docs.gitlab.com/ce/administration/img/high_availability/active-active-diagram.png)
+<!--more-->
 
 ## Redis
 Gitlab官网上的文档说到的方案是搭建一个稳定高可用性的Redis集群，我在这里做了简化，只用docker搭建了单个节点的Redis服务

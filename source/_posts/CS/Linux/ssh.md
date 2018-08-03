@@ -20,6 +20,7 @@ LoginGraceTime 120
 PermitRootLogin yes
 StrictModes yes
 ```
+<!--more-->
 
 ## Generate public key 
 ```
