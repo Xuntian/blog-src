@@ -1,7 +1,10 @@
 ---
 title: Gcc
 date: 2018-03-31
-categories: Algorithm
+categories: 
+- CS
+- c语言
+- gcc
 tag: gcc
 ---
 

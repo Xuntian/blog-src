@@ -1,7 +1,9 @@
 ---
 title: SSH
 date: 2017-08-11 
-categories: Linux
+categories: 
+- CS
+- linux
 tag: ssh 
 ---
 

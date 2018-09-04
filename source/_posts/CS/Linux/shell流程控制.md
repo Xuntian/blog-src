@@ -1,7 +1,10 @@
 ---
 title: Shell流程控制
 date: 2017-01-19 
-categories: Linux
+categories: 
+- CS
+- linux
+- shell
 tag: shell 
 ---
 

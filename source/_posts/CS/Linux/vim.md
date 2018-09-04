@@ -1,7 +1,10 @@
 ---
 title: Vim 
 date: 2017-10-18
-categories: Linux
+categories: 
+- CS
+- linux
+- vim
 tag: vim 
 ---
 

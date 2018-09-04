@@ -1,7 +1,10 @@
 ---
 title: Shell
 date: 2018-01-18 
-categories: Linux
+categories: 
+- CS
+- linux
+- shell
 tag: shell 
 ---
 

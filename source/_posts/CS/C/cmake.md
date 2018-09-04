@@ -1,7 +1,10 @@
 ---
 title: Cmake
 date: 2018-04-11 
-categories: C
+categories: 
+- CS
+- c语言
+- cmake
 tag: cmake 
 ---
 

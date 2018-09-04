@@ -1,10 +1,10 @@
 ---
-title: stock
+title: 超额收益
 date: 2018-07-11 
 categories: 
-- em
-- stock
-tag: stock 
+- EM
+- Value investment
+tag: value-investment 
 ---
 
 * 能够稳定盈利的投资方式，价值投资和指数投资

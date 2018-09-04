@@ -1,7 +1,9 @@
 ---
 title: Linux 
 date: 2016-12-01 
-categories: Linux
+categories: 
+- CS
+- linux
 tag: linux 
 ---
 

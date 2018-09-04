@@ -1,7 +1,9 @@
 ---
 title: Proxy
 date: 2016-12-10 
-categories: Linux
+categories: 
+- CS
+- linux
 tag: proxy 
 ---
 
