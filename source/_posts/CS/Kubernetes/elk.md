@@ -2,6 +2,7 @@
 title: App Logs in K8s Cluster
 date: 2018-09-12
 categories: 
+- CS
 - k8s
 - log
 tag: 

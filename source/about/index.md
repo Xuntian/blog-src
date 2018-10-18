@@ -13,7 +13,7 @@ https://github.com/Xuntian
 
 目前是个运维小白，在学习linux，docker，kubernetes，devops等相关内容      
 
-业务爱好是金融，历史，乒乓球，羽毛球     
+业余爱好是金融，历史，乒乓球，羽毛球     
 
 喜欢电影，纪录片，人物传记     
 
