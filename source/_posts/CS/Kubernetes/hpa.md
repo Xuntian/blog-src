@@ -11,6 +11,7 @@ tag:
 ---
 
 HPA自动水平伸缩，可以根据资源使用率进行自动扩容、缩容pod的数量。根据 CPU 使用率或自定义 metrics 自动扩展 Pod 数量（支持 replication controller、deployment）；k8s1.6版本之前是通过kubelet来获取监控指标，1.6版本之后是通过api server、heapster或者kube-aggregator来获取监控指标。
+<!--more-->
 
 ### Metrics支持
 
