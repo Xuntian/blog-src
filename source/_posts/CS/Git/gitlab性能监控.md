@@ -14,6 +14,8 @@ Gitlab项目自带了非常完备的项目监控方案，在这里做一些简�
 * Monitoring GitLab with Prometheus
 * GitLab Performance Monitoring with Influxdb and Grafana
 
+<!--more-->
+
 ### Performance Bar
 在Admin area中Settings > Metrics and Profiling > Profiling - Performance bar开启Performance Bar
 ![performance_bar_configuration_settings](./performance_bar_configuration_settings.png)

@@ -15,11 +15,11 @@ tag:
 <!--more-->
 
 ## gitaly简述
-![传统架构示意图](./p1.jpg)
+![传统架构示意图](./p1.png)
 
 在之前，上层应用使用libgit2库调用底层的git，libgit2由c语言开发，gitlab-rails使用ruby的Rugged调用libgit2和git通信。而存储层则使用性能很差的nfs，网络文件系统增大了文件访问的开销，同时git也无法利用缓存增加平均访问速度。
 
-![gitaly架构示意图](./p2.jpg)
+![gitaly架构示意图](./p2.png)
 
 gitaly发布之后，gitlab-rails通过grpc访问gitaly和底层的git通信，规避了nfs的开销，可以对存储进行批量扩展，gitlab和gitaly的配置如下：
 > gitlab
@@ -34,6 +34,7 @@ git_data_dirs({
 gitlab_rails['gitaly_token'] = 'abc123secret'
 ```
 > gitaly
+
 ```
 # /etc/gitlab/gitlab.rb
 
